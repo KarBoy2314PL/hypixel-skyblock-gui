@@ -1,11 +1,18 @@
 # Hypixel SkyBlock GUI
 Custom GUI Resource Pack for Hypixel SkyBlock, a Minecraft: Java Edition Server Network that recently launched their take on the classic SkyBlock challenge
 
+<details>
+  <summary>Screenshots</summary>
 ![SkyBlock Menu](https://i.imgur.com/Kgq00fF.png)
+  
 ![Auction House](https://i.imgur.com/bKuGTKB.png)
+
 ![Jerry the Assistant](https://i.imgur.com/8F3anMq.png)
+
 ![Iron Minion](https://i.imgur.com/1rmUAxS.png)
+
 Additional textures are from PackHQ, check Acknowledgments for the link
+</details>
 
 # Prerequisites
 What things you need to install the resource pack
