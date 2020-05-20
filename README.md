@@ -3,6 +3,7 @@ Custom GUI Resource Pack for Hypixel SkyBlock, a Minecraft: Java Edition Server 
 
 <details>
   <summary>Screenshots</summary>
+  
 ![SkyBlock Menu](https://i.imgur.com/Kgq00fF.png)
   
 ![Auction House](https://i.imgur.com/bKuGTKB.png)
