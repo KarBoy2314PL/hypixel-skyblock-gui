@@ -26,7 +26,8 @@ Please make issues for one item at a time, detailing:
 * where does it appear
 
 # Acknowledgments
-* PacksHQ for main inspiration - https://packshq.com/
+* PacksHQ for main inspiration and color pallete - https://packshq.com/
+* jogurciQ's Dark UI for Faithful for color pallete - https://faithful.team/dark-ui/
 * Material Design Icons - https://materialdesignicons.com/ & https://github.com/Templarian/MaterialDesign
 * Menu model is the original SkyBlock map by Noobcrew - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock#c1
 * Menu model made with Blockbench - https://blockbench.net/ & https://github.com/JannisX11/blockbench
