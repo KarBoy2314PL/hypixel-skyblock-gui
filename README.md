@@ -27,9 +27,9 @@ Please make issues for one item at a time, detailing:
 
 # Acknowledgments
 * PacksHQ for main inspiration - https://packshq.com/
-* Material Design Icons - https://materialdesignicons.com/ & Templarian/MaterialDesign
+* Material Design Icons - https://materialdesignicons.com/ & https://github.com/Templarian/MaterialDesign
 * Menu model is the original SkyBlock map by Noobcrew - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock#c1
-* Menu model made with Blockbench - https://blockbench.net/ & JannisX11/blockbench
+* Menu model made with Blockbench - https://blockbench.net/ & https://github.com/JannisX11/blockbench
 
 # License
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details
