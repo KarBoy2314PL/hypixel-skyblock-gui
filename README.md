@@ -45,6 +45,7 @@ Please make issues for one item at a time, detailing:
 * Material Design Icons - https://materialdesignicons.com/ & https://github.com/Templarian/MaterialDesign
 * Menu model is the original SkyBlock map by Noobcrew - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock#c1
 * Menu model made with Blockbench - https://blockbench.net/ & https://github.com/JannisX11/blockbench
+* Some model textures are from Vanilla Tweaks - https://vanillatweaks.net/
 
 # License
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details
