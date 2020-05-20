@@ -20,7 +20,7 @@ What things you need to install the resource pack
 
 1. Minecraft: Java Edition (version 1.8.9)
 2. OptiFine for Minecraft 1.8.9 (I tested with HD U L5)
-3. Modified other resource packs without their own custom GUIs
+3. Other resource packs without their own custom GUIs (you'll need to modify them)
 
 # Installation
 A step by step series of instructions that tell you how to get this resource pack working
