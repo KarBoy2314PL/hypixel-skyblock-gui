@@ -33,19 +33,24 @@ A step by step series of instructions that tell you how to get this resource pac
 6. Have Fun!
 
 # Contributing
-Please make issues for one item at a time, detailing:
+Please make issues regarding any question or any unedited item
+I will not accept pull requests as they are not useful for this use case
+
+For missing items, please make issues for one item at a time, detailing:
 * what item it is
 * what name does it have
 * a suggestion with what material design icon could be replaced with
 * where does it appear
 
-# Acknowledgments
+# Acknowledgements
 * PacksHQ for main inspiration and color pallete - https://packshq.com/
 * jogurciQ's Dark UI for Faithful for color pallete - https://faithful.team/dark-ui/
 * Material Design Icons - https://materialdesignicons.com/ & https://github.com/Templarian/MaterialDesign
+
 * Menu model is the original SkyBlock map by Noobcrew - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock#c1
 * Menu model made with Blockbench - https://blockbench.net/ & https://github.com/JannisX11/blockbench
 * Some model textures are from Vanilla Tweaks - https://vanillatweaks.net/
 
 # License
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details
+If anyone mentioned in Acknowledgements don't agree with my license choice, please contact me
