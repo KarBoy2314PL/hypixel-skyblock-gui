@@ -34,6 +34,7 @@ A step by step series of instructions that tell you how to get this resource pac
 
 # Contributing
 Please make issues regarding any question or any unedited item
+
 I will not accept pull requests as they are not useful for this use case
 
 For missing items, please make issues for one item at a time, detailing:
@@ -53,4 +54,5 @@ For missing items, please make issues for one item at a time, detailing:
 
 # License
 This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details
-If anyone mentioned in Acknowledgements don't agree with my license choice, please contact me
+
+If anyone mentioned in Acknowledgements doesn't agree with my license choice, please contact me
