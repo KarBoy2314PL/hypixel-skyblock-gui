@@ -33,9 +33,9 @@ A step by step series of instructions that tell you how to get this resource pac
 6. Have Fun!
 
 # Contributing
-Please make issues regarding any question or any unedited item
+* Please make issues regarding any question or any unedited item
 
-I will not accept pull requests as they are not useful for this use case
+* I will not accept pull requests as they are not useful for this use case
 
 For missing items, please make issues for one item at a time, detailing:
 * what item it is
@@ -47,7 +47,6 @@ For missing items, please make issues for one item at a time, detailing:
 * PacksHQ for main inspiration and color pallete - https://packshq.com/
 * jogurciQ's Dark UI for Faithful for color pallete - https://faithful.team/dark-ui/
 * Material Design Icons - https://materialdesignicons.com/ & https://github.com/Templarian/MaterialDesign
-
 * Menu model is the original SkyBlock map by Noobcrew - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock#c1
 * Menu model made with Blockbench - https://blockbench.net/ & https://github.com/JannisX11/blockbench
 * Some model textures are from Vanilla Tweaks - https://vanillatweaks.net/
