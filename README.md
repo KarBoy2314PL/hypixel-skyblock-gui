@@ -34,7 +34,6 @@ A step by step series of instructions that tell you how to get this resource pac
 
 # Contributing
 * Please make issues regarding any question or any unedited item
-
 * I will not accept pull requests as they are not useful for this use case
 
 For missing items, please make issues for one item at a time, detailing:
