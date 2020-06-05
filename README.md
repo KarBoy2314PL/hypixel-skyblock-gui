@@ -37,10 +37,12 @@ A step by step series of instructions that tell you how to get this resource pac
 * I will not accept pull requests as they are not useful for this use case
 
 For missing items, please make issues for one item at a time, detailing:
-* what item it is
-* what name does it have
+* what item it is (if unsure, hit F3+H)
+* what name does the item have
 * a suggestion with what material design icon could be replaced with
 * where does it appear
+* what rank are you at the time of writing the issue
+* optionally, a screenshot with the resource pack on showing the item in question
 
 # Acknowledgements
 * PacksHQ for main inspiration and color pallete - https://packshq.com/
