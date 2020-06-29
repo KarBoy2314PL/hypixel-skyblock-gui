@@ -53,6 +53,4 @@ For missing items, please make issues for one item at a time, detailing:
 * Some model textures are from Vanilla Tweaks - https://vanillatweaks.net/
 
 # License
-This project is licensed under the GPL-3.0 License - see the [LICENSE.md](LICENSE.md) file for details
-
-If anyone mentioned in Acknowledgements doesn't agree with my license choice, please contact me
+There's no license for this resource pack, but Material Design Icons uses SIL OPEN FONT LICENSE Version 1.1, which you can read about it here: https://github.com/Templarian/MaterialDesign/blob/master/LICENSE
