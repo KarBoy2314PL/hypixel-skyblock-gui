@@ -1,6 +1,8 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "mcpatcher/cit/charles-ui/textures/alert"
+        "layer0": "mcpatcher/cit/charles-ui/textures/null",
+        "layer1": "mcpatcher/cit/charles-ui/textures/circle-lime-900",
+        "layer2": "mcpatcher/cit/charles-ui/textures/alert"
     }
 }

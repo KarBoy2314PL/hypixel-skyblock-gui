@@ -3,6 +3,6 @@
     "textures": {
         "layer0": "mcpatcher/cit/charles-ui/textures/null",
         "layer1": "mcpatcher/cit/charles-ui/textures/circle-bluegray-700",
-        "layer2": "mcpatcher/cit/charles-ui/textures/format-list-bulleted"
+        "layer2": "mcpatcher/cit/charles-ui/textures/format-list-checks"
     }
 }
