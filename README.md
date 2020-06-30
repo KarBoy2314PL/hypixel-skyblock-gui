@@ -50,7 +50,7 @@ For missing items, please make issues for one item at a time, detailing:
 * [jogurciQ's Dark UI for Faithful for color pallete](https://faithful.team/dark-ui/)
 * Material Design Icons - [Website](https://materialdesignicons.com/) & [GitHub Listing](https://github.com/Templarian/MaterialDesign)
 * [Menu model is the original SkyBlock map by Noobcrew](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/maps/1473433-surv-skyblock#c1)
-* Menu model made with Blockbench [Website](https://blockbench.net/) & [GitHub Listing](https://github.com/JannisX11/blockbench)
+* Menu model made with Blockbench - [Website](https://blockbench.net/) & [GitHub Listing](https://github.com/JannisX11/blockbench)
 * [Some model textures are from Vanilla Tweaks](https://vanillatweaks.net/)
 
 # License
