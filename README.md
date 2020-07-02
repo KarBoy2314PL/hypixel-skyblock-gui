@@ -33,17 +33,8 @@ A step by step series of instructions that tell you how to get this resource pac
 6. Have Fun!
 
 # Contributing
-* Please make issues regarding any question, any unedited item, or any edtied item that has a black circle behind it
+* Please make issues regarding anything, there should be issue templates here
 * I will not accept pull requests as they are not useful for this use case
-
-For missing items, please make issues for one item at a time, detailing:
-* what item it is (if unsure, hit F3+H)
-* what name does the item have
-* a suggestion with what material design icon could be replaced with
-* a suggestion with what colored circle it could have, [look for 2014 Material Design color pallets and for colors that have white text on them](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
-* where does it appear
-* what rank are you at the time of writing the issue
-* optionally, a screenshot with the resource pack on showing the item in question
 
 # Acknowledgements
 * [PacksHQ for main inspiration and color pallete](https://packshq.com/)
