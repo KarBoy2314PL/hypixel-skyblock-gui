@@ -1,7 +1,6 @@
 ---
 name: Missing Icon
-about: is there an icon that isn't textured but it should've been? fill this form
-  plz
+about: Describe this issue template's purpose here.
 title: "[Missing Icon] "
 labels: 'missing icon, status: not started'
 assignees: ''
