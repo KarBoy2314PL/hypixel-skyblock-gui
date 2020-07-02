@@ -2,14 +2,15 @@
 name: Missing Icon
 about: Describe this issue template's purpose here.
 title: "[Missing Icon] "
-labels: 'status: not started, missing icon'
+labels: 'missing icon, status: not started'
 assignees: ''
 
 ---
 
-**what item it is (if unsure, hit F3+H):**
-**what name does the item have:**
-**a suggestion with what material design icon could be replaced with:**
-**where does it appear:**
-**what rank are you at the time of writing the issue:**
-**Optionally, give a screenshot of the shown item in question:**
+**what item this is? (if unsure, hit F3+H)** 
+**what name does this item have?** 
+**what material design icon could this be replaced with?** 
+**what colored circle could this have?** 
+**where does this appear?** 
+**what rank are you at the time of writing this?** 
+**Optionally, give a screenshot of the shown item in question**
