@@ -1,6 +1,6 @@
 ---
 name: Missing Icon
-about: Describe this issue template's purpose here.
+about: is there an item that should be replaced with an icon? fill this form
 title: "[Missing Icon] "
 labels: 'missing icon, status: not started'
 assignees: ''
