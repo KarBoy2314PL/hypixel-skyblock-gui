@@ -1,3 +1,8 @@
+# Giving Up
+hey there, im giving up on this resource pack. i am so many updates behind that i don't even know where to begin. also the way i make the icons is very inefficient and ram hungry and im not sure how i should even approach all of my icons
+
+feel free to fork this and go ham at what i've left here, have fun
+
 # Hypixel SkyBlock GUI
 Custom GUI Resource Pack for Hypixel SkyBlock, a Minecraft: Java Edition Server Network that recently launched their take on the classic SkyBlock challenge
 
